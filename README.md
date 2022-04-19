@@ -18,6 +18,8 @@ There are some assumptions about this project as the following points.
 - We decide whether to win or lose based on team strength, the stronger team always got the victory of the matchup.
 - Box office will vary according to different matchups and venues; I determine the value by a discrete uniform distribution ( U(1,20) ).
 - The venues should not be repeated in the preliminary round and final round. The preliminary round and final round will be explained in the following context.
+![This is an image](https://github.com/Jacky12Cheng/NBA-Industry-Chain-Database-Management-System-with-GUI/blob/main/ER_Diagram_and_Relation_Schema/ER-diagram.png)
+
 ## **Integer Programming Approach**
 - Given Data
 
