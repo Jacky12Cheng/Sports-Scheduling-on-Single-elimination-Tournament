@@ -46,4 +46,12 @@ We decide whether to win or lose based on team strength.
  
   - Objective function Constraints
 
-- Computational Results
+## **Computational Results**
+
+The results are shown in the following figures. We got the variables u and v about the matchup and venue in the every game session.
+
+Then we did some comparison between different numbers of teams and venues as follows.
+
+## **Conclusions**
+
+Based on the computational results, increasing the number of venue choices will not have much impact on the solution time. However, increasing the number of teams by a factor of two will lead to an exponential increase in solution time. So we need to revise our integer programming model to reduce the use of binary variables.
