@@ -22,3 +22,28 @@ There are some assumptions about this project as the following points.
 - Given Data
 
 There are some data is given in this project. One is box office data, it is a three-dimension data set which is based on different matchups and venues.
+
+The other one is the team strength table. We determine which will win by using the table.
+
+- Objective function
+Maximize the total box office income
+
+I will explain the variables in the function later.
+
+- Variable & Parameter Definition
+
+- Constraints
+  - Ubar Constraints
+  To simply our problem, we construct the variable u ̅_ijp. 
+  
+  - Advance Constraints
+We decide whether to win or lose based on team strength.
+ 
+ 
+  - Venue Constraints
+
+  - Competition system Constraints
+ 
+  - Objective function Constraints
+
+- Computational Results
