@@ -34,7 +34,8 @@ Maximize the total box office income
 I will explain the variables in the function later.
 
 - Variable & Parameter Definition
-![This is an image](https://github.com/Jacky12Cheng/Sports-Scheduling-on-Single-elimination-Tournament/blob/main/formulas/parameter_definition.png)
+![This is an image](https://github.com/Jacky12Cheng/Sports-Scheduling-on-Single-elimination-Tournament/blob/main/formulas/parameter_definition.PNG)
+
 - Constraints
   - Ubar Constraints
   To simply our problem, we construct the variable u ̅_ijp. 
