@@ -10,6 +10,7 @@ Exciting sports events always can gather people's hearts. So whether the good ma
 The objective function is to **maximize the popularity and box office of the game.** The box office will be affected by different venues.
 
 The following figure shows the result we want to get. English letters in brackets represent the venue. So we will decide the matchup and venue simultaneously in every single game session.
+![This is an image](https://github.com/Jacky12Cheng/Sports-Scheduling-on-Single-elimination-Tournament/blob/main/figures/Results(Desired).png)
 
 ## **Problem Assumption**
 
