@@ -30,7 +30,8 @@ The other one is the team strength table. We determine which will win by using t
 
 - Objective function
 Maximize the total box office income
-![This is an image](https://github.com/Jacky12Cheng/Sports-Scheduling-on-Single-elimination-Tournament/blob/main/formulas/objective_function.png)
+![This is an image](https://github.com/Jacky12Cheng/Sports-Scheduling-on-Single-elimination-Tournament/blob/main/formulas/objective_function.png),
+
 I will explain the variables in the function later.
 
 - Variable & Parameter Definition
