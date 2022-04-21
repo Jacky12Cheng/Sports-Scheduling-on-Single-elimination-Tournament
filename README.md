@@ -58,7 +58,7 @@ The results are shown in the following figures. We got the variables u and v abo
 ![This is an image](https://github.com/Jacky12Cheng/Sports-Scheduling-on-Single-elimination-Tournament/blob/main/figures/Results_2.png)
 
 Then we did some comparison between different numbers of teams and venues as follows.
-![This is an image](https://github.com/Jacky12Cheng/Sports-Scheduling-on-Single-elimination-Tournament/blob/main/figures/Results_3.png)
+![This is an image](https://github.com/Jacky12Cheng/Sports-Scheduling-on-Single-elimination-Tournament/blob/main/figures/Results_3.PNG)
 
 ## **Conclusions**
 
