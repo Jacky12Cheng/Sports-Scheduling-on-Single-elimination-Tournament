@@ -54,8 +54,11 @@ We decide whether to win or lose based on team strength.
 ## **Computational Results**
 
 The results are shown in the following figures. We got the variables u and v about the matchup and venue in the every game session.
+![This is an image](https://github.com/Jacky12Cheng/Sports-Scheduling-on-Single-elimination-Tournament/blob/main/figures/Results_1.png)
+![This is an image](https://github.com/Jacky12Cheng/Sports-Scheduling-on-Single-elimination-Tournament/blob/main/figures/Results_2.png)
 
 Then we did some comparison between different numbers of teams and venues as follows.
+![This is an image](https://github.com/Jacky12Cheng/Sports-Scheduling-on-Single-elimination-Tournament/blob/main/figures/Results_3.png)
 
 ## **Conclusions**
 
