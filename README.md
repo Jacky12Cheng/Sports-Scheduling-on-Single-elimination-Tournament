@@ -30,11 +30,11 @@ The other one is the team strength table. We determine which will win by using t
 
 - Objective function
 Maximize the total box office income
-
+![This is an image](https://github.com/Jacky12Cheng/Sports-Scheduling-on-Single-elimination-Tournament/blob/main/formulas/objective_function.png)
 I will explain the variables in the function later.
 
 - Variable & Parameter Definition
-
+![This is an image](https://github.com/Jacky12Cheng/Sports-Scheduling-on-Single-elimination-Tournament/blob/main/formulas/parameter_definition.png)
 - Constraints
   - Ubar Constraints
   To simply our problem, we construct the variable u ̅_ijp. 
